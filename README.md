@@ -1,4 +1,4 @@
-# 2025_MonteCarloFiltration
+# About the repository
 Data for article: Drumm, A.R. & Bernardi, F. Monte Carlo simulations of two-dimensional flat-sheet membrane filters for constant-pressure
 water purification. _Physical Review E(112)_.__
 
